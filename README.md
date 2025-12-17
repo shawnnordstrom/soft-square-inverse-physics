@@ -1,5 +1,3 @@
-# soft-square-inverse-physics
-
 # Soft-Square Inverse Physics (Taichi + Gen)
 
 Minimal, fully controllable soft-body “soft square” world (mass–spring system) for studying soft-material inference from motion.  
