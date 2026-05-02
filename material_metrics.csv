@@ -1,0 +1,2 @@
+preset,shape,stiffness,spring_damping,air_drag,volume_stiffness,object_restitution,floor_restitution,drop_height,rebound_ratio,settling_time_s,max_strain,recovery_time_s
+bean_bag,bean_bag,16.0,95.0,1.1,58.0,0.08,0.8,0.7793126702308655,0.03823722693153042,0.0,0.3796236856723329,0.10849999636411667
