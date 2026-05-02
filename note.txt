@@ -1,4 +1,0 @@
-four preset videos: bouncy_ball, bean_bag, pillow, jelly
-hold the jelly preset, very stiffness-scale low --> high while damping stays fixed
-hold the jelly preset, very damping-scale low --> high while stiffness stays fixed
-use bouncy_ball and show it with object_restitution cranked down vs. at default
